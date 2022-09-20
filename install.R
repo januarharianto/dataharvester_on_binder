@@ -1,4 +1,6 @@
 install.packages("remotes")
+install.packages("startup")
 remotes::install_github("sydney-informatics-hub/dataharvester", ref = "develop")
 reticulate::install_miniconda()
+startup::restart() 
 dataharvester::initialise_harvester(earthengine = FALSE)
