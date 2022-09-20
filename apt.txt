@@ -2,4 +2,3 @@ vim
 python-numpy 
 gdal-bin
 libgdal-dev
-libgdal1-dev
