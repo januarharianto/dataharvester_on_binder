@@ -2,10 +2,8 @@ name: r-reticulate
 channels:
   - conda-forge
 dependencies:
-  - python >= 3.9
+  - python[version='>=3.9']
   - ipykernel
-  - jupyter
-  - notebook
   - ipywidgets
   - earthengine-api
   - google-cloud-sdk
@@ -16,6 +14,11 @@ dependencies:
   - owslib
   - wxee
   - pip
+  - jupyter
+  - notebook
+  - ca-certificates
+  - certifi
+  - openssl
   - pip:
     - alive-progress
     - geedim
