@@ -14,7 +14,7 @@ reticulate::conda_install(
     "netcdf4",
     "numba",
     "owslib",
-    "rioxarray"
+    "rioxarray==1.2.10"
   )
 )
 reticulate::conda_install(
