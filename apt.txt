@@ -1,1 +1,3 @@
 vim
+libgdal-dev
+libproj-dev
