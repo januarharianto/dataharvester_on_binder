@@ -1,8 +1,10 @@
-# Template for RStudio on Binder / JupyterHub
+# Template for RStudio on Binder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/januarharianto/dataharvester_on_binder/HEAD?urlpath=rstudio)
 
-Generate a Git repository that can run R code with RStudio on
+Trying to host `dataharvester` on Binder. Wish me luck!
+
+<!-- Generate a Git repository that can run R code with RStudio on
 the browser via [mybinder.org](https://mybinder.org) or any JupyterHub
 from this template repository!
 
@@ -65,4 +67,4 @@ libgsl0-dev
 ```
 
 Or, just get in touch by opening an issue. We'll try and resolve common cases so
-more things work out of the box.
+more things work out of the box. -->
