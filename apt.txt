@@ -1,3 +1,4 @@
 vim
+python-numpy 
+gdal-bin
 libgdal-dev
-libproj-dev
