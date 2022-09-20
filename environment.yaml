@@ -1,0 +1,22 @@
+name: r-reticulate
+channels:
+  - conda-forge
+dependencies:
+  - python >= 3.9
+  - ipykernel
+  - jupyter
+  - notebook
+  - ipywidgets
+  - earthengine-api
+  - google-cloud-sdk
+  - rioxarray
+  - eemont
+  - geopandas
+  - numba
+  - owslib
+  - wxee
+  - pip
+  - pip:
+    - alive-progress
+    - geedim
+    - termcolor
